@@ -39,6 +39,3 @@ npm run dev
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
-📜 Credits
-
-Developed by Ayush Raj – [GitHub](https://github.com/Ayussh-Raj)
